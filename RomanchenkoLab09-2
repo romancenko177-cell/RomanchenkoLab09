@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Лабораторна робота №9 — Незалежні класи</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; background: #fffaf5; color: #333; line-height: 1.6; }
+    .section-name { color: #8b3a62; font-size: 25px; font-weight: bold; border-bottom: 2px solid #d9a3bd; padding-bottom: 5px; margin-top: 25px; }
+    .main-text { font-size: 17px; text-align: justify; text-indent: 25px; }
+    .note { color: #6b5b36; background: #fff1c9; border-left: 4px solid #e0b84f; padding: 10px; font-size: 14px; }
+    .highlight { color: #176b87; font-weight: bold; }
+  </style>
+</head>
+<body>
+  <h1>Мої захоплення</h1>
+
+  <div class="section-name">Спорт і активний відпочинок</div>
+  <p class="main-text">Спорт допомагає підтримувати здоров'я, розвивати витривалість і дисципліну. Мені подобається проводити час активно та ставити перед собою нові цілі.</p>
+  <p class="note">Примітка: регулярна фізична активність позитивно впливає на самопочуття.</p>
+
+  <div class="section-name">Технології</div>
+  <p class="main-text">Сучасні технології роблять життя зручнішим. Мені цікаво дізнаватися про комп'ютери, програми та нові цифрові можливості.</p>
+  <p class="main-text">Особливо корисно вивчати <span class="highlight">створення вебсторінок</span>, адже це поєднує логіку, творчість і практичні навички.</p>
+  <p class="note">Порада: нові знання найкраще закріплювати на практиці.</p>
+
+  <div class="section-name">Подорожі та відпочинок</div>
+  <p class="main-text">Подорожі дають змогу побачити нові місця, познайомитися з людьми та дізнатися більше про культуру різних регіонів.</p>
+  <p class="main-text">Навіть коротка поїздка може подарувати багато приємних вражень.</p>
+  <p class="note">Цікавий факт: під час подорожей люди часто відкривають для себе нові захоплення.</p>
+</body>
+</html>
